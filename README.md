@@ -3,4 +3,4 @@
  
  aprendendo como fazer um repositório no Github  
  
- reformulando codigos e montando repositório
+ reformulando codigos e montando repositório, um pouco a cada dia!
