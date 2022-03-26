@@ -4,4 +4,4 @@
  aprendendo como fazer um repositório no Github  
  
  reformulando codigos e montando repositório, um pouco a cada dia!
- aprendendo css, html e javascrispt!
+ aprendendo css, html e JS!
