@@ -3,5 +3,6 @@
  
  aprendendo como fazer um repositório no Github  
  
- reformulando codigos e montando repositório, um pouco a cada dia!
+ reformulando codigos e montando repositório.
+ 
  aprendendo css, html e JS!
