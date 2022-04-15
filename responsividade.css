@@ -1,4 +1,4 @@
-*{
+* {
     margin: 0;
     padding:0;
     font-size: 100%;
@@ -29,7 +29,7 @@ img{
 }
 .logo{
 width:56px;
-height: 56px;
+height: 56px; 
 float: left;
 background: url(/2c.jpg)center center/56px no-repeat;
 font-size:0;
@@ -44,3 +44,4 @@ font-size:0;
     cursor:pointer;
     background: linear-gradient(to right, #ce2e3c, #da6709);
 }
+.
