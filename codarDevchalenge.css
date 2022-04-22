@@ -65,7 +65,7 @@ font-style: oblique;
 }
 .container{
     display: flex;
-    justify-content: center;
+    justify-content: cen er;
 }
 .imag{
     margin-top: 150px;
